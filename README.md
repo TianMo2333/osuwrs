@@ -1,4 +1,4 @@
-# osuwrs
+# wrs
 自定义背景脚本
 支持系统: 仅Windows
 
